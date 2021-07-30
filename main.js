@@ -108,6 +108,91 @@ const climbs = {
         grade: '5.11b',
         link: 'https://www.mountainproject.com/route/105996498/direct-beckey'
     },
+    climb15: {
+        name: 'Myopia',
+        type: 'Trad',
+        location: 'Sawtooth Ridge, Idaho',
+        grade: '5.11a',
+        link: 'https://www.mountainproject.com/route/105996539/myopia'
+    },
+    climb16: {
+        name: 'Model Worker',
+        type: 'Trad',
+        location: 'Lower Town Hall, Washington',
+        grade: '5.11c',
+        link: 'https://www.mountainproject.com/route/105814991/model-worker'
+    },
+    climb17: {
+        name: 'Slow Children',
+        type: 'Trad',
+        location: 'Lower Town Hall, Washington',
+        grade: '5.10d',
+        link: 'https://www.mountainproject.com/route/105815743/slow-children'
+    },
+    climb18: {
+        name: 'Japanese Gardens',
+        type: 'Trad',
+        location: 'Lower Town Hall, Washington',
+        grade: '5.11+',
+        link: 'https://www.mountainproject.com/route/105791008/japanese-gardens'
+    },
+    climb14: {
+        name: 'Whipper Snapper',
+        type: 'Sport',
+        location: 'Clear Creek, Tennessee',
+        grade: '5.11a',
+        link: 'https://www.mountainproject.com/route/106753704/whipper-snapper'
+    },
+    climb19: {
+        name: 'Tieranny',
+        type: 'Sport',
+        location: 'Clear Creek, Tennessee',
+        grade: '5.12a',
+        link: 'https://www.mountainproject.com/route/105891980/tieranny'
+    },
+    climb20: {
+        name: 'Saddam Hussein',
+        type: 'Sport',
+        location: 'Clear Creek, Tennessee',
+        grade: '5.11b/c',
+        link: 'https://www.mountainproject.com/route/106090481/saddam-hussein'
+    },
+    climb21: {
+        name: 'Golden Shower',
+        type: 'Boulder',
+        location: 'Rocktown, Georgia',
+        grade: 'V5',
+        link: 'https://www.mountainproject.com/route/106403724/golden-shower'
+    },
+    climb22: {
+        name: 'Standard Deviation',
+        type: 'Boulder',
+        location: 'Rocktown, Georgia',
+        grade: 'V6',
+        link: 'https://www.mountainproject.com/route/108054353/standard-deviation'
+    },
+    climb23: {
+        name: 'Nose Candy',
+        type: 'Boulder',
+        location: 'Rocktown, Georgia',
+        grade: 'V6',
+        link: 'https://www.mountainproject.com/route/106340625/nose-candy'
+    },
+    climb24: {
+        name: 'Electra',
+        type: 'Sport',
+        location: 'Piedmont, North Carolina',
+        grade: '5.10C',
+        link: 'https://www.mountainproject.com/route/106101380/electra'
+    },
+    climb25: {
+        name: 'Caterpillar',
+        type: 'Trad',
+        location: 'Piedmont, North Carolina',
+        grade: '5.7+',
+        link: 'https://www.mountainproject.com/route/106101415/caterpillar'
+    },
+
 
 };
 

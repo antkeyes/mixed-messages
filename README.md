@@ -5,7 +5,7 @@ Classic climb generator is a program that randomly suggests one of 25 classic ro
 - The generator uses JavaScript. 
 - Each generated suggestion includes the following information about the climb:
   - name
-  - type (sport or trad)
+  - type (sport, trad or boulder)
   - location
   - grade
   - link to mountainproject.com 
