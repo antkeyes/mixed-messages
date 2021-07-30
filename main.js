@@ -1,6 +1,6 @@
 /*
 Classic climb generator
-- gives the user a suggest classic rock climb suggestion 
+- gives the user a classic rock climb suggestion 
 - includes info about the climb, including name, type, location and grade
 
 Antonio Keyes
